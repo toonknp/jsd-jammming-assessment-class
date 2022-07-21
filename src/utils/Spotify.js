@@ -1,6 +1,6 @@
 // TODO: Get Client ID from https://developer.spotify.com/dashboard/ and put it here
 const ClientId = 'a4b119c1061d4c29ad7c83e33062ce6a'
-const redirectUri = 'http://127.0.0.1:5174/'
+const redirectUri = 'https://jsd-jammming-assessment-class.vercel.app'
 let accessToken = undefined;
 
 const Spotify = {
